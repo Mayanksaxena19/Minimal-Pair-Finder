@@ -47,6 +47,3 @@ Include screenshots here to showcase the UI and functionality.
 
 ### Contribution
 Feel free to fork this project, submit issues, or create pull requests. Any contributions that improve functionality, fix bugs, or expand language support are welcome!
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
